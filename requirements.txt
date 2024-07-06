@@ -1,0 +1,7 @@
+The following are all necessary Python libraries used for this project:
+pandas
+matplotlib
+scikit-learn
+statsmodels
+keras
+tensorflow
